@@ -1,0 +1,44 @@
+!  Basjes blocklist
+!
+!  Title: basjes blocklist
+!  Syntax: abp
+!  TimeUpdated: 2021-01-28T07:15:30
+||([globalprotect-]+[a-z]{2,2}).equinix.com^$important
+||r4---sn-aigzrn7s.googlevideo.com^$important
+||r6---sn-aigzrner.googlevideo.com^$important
+||r2---sn-aigzrn7k.googlevideo.com^$important
+||r6---sn-5hne6nlr.googlevideo.com^$important
+||r2---sn-5hnedn7s.googlevideo.com^$important
+||s0.2mdn.net^$important
+||zdbb.net^$important
+||themes.googleusercontent.com^$important
+||robincontentdesktop.blob.core.windows.net^$important
+||personify-metrics.appspot.com^$important
+||edge.spiceworksstatic.com^$important
+||csi.gstatic.com^$important
+||community.spiceworksstatic.com^$important
+||public.chaturbate.com^$important
+||nl.chaturbate.com^$important
+||chaturbate.com^$important
+||report-uri.highwebmedia.com^$important
+||ctionlearlyfe.club^$important
+||breated.club^$important
+||rmedessents.club^$important
+||speedtest.mkbwebhoster.com.prod.hosts.ooklaserver.net^$important
+||googleads.g.doubleclick.net^$important
+||googleadservices.com^$important
+@@||xmr.pool.minergate.com^$important
+||www.google-analytics.com^$important
+@@||ssp-nj.webtradehub.com^$important
+@@||minexmr.com^$important
+||bubblewitch3mobile.king.com^$important
+@@||collector.githubapp.com^$important
+||globalprotect-am.equinix.com^$important
+||globalprotect-ld.equinix.com^$important
+||globalprotect-gv.equinix.com^$important
+||globalprotect-fr.equinix.com^$important
+||globalprotect-sv.equinix.com^$important
+||globalprotect-sg.equinix.com^$important
+||globalprotect-dx.equinix.com^$important
+||globalprotect-pa.equinix.com^$important
+||globalprotect-he.equinix.com^$important
