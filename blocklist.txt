@@ -6,6 +6,7 @@
 /[globalprotect-]+[a-z]{2,2}.equinix.com/^$important
 /[a-zA-Z0-9]{3,3}+[-]+pan1ce.equinix.com/
 /(([a-zA-Z0-9]{2,2})+[---]+([a-zA-Z0-9]{2,2})+[-]+([a-zA-Z0-9]{8,8})).googlevideo.com/
+/(([a-zA-Z0-9]{2,2})+[---]+([a-zA-Z0-9]{2,2})+[-]+([a-zA-Z0-9]{8,8})).googlevideo.com/
 /(([a-zA-Z0-9]{2,2})+[.]+([a-zA-Z0-9]{2,2})+[-]+([a-zA-Z0-9]{8,8})).googlevideo.com/
 ||s0.2mdn.net^$important
 ||zdbb.net^$important
