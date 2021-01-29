@@ -4,8 +4,8 @@
 !  Syntax: abp
 !  TimeUpdated: 2021-01-28T07:15:30
 ||([globalprotect-]+[a-z]{2,2}).equinix.com^$important
-||/(([a-zA-Z0-9]{2,2})+[---]+([a-zA-Z0-9]{2,2})+[-]+([a-zA-Z0-9]{8,8}))/.googlevideo.com^$important
-||/(([a-zA-Z0-9]{2,2})+[.]+([a-zA-Z0-9]{2,2})+[-]+([a-zA-Z0-9]{8,8}))/.googlevideo.com
+||/(([a-zA-Z0-9]{2,2})+[---]+([a-zA-Z0-9]{2,2})+[-]+([a-zA-Z0-9]{8,8})).googlevideo.com/^$important
+||/(([a-zA-Z0-9]{2,2})+[.]+([a-zA-Z0-9]{2,2})+[-]+([a-zA-Z0-9]{8,8})).googlevideo.com/
 #||r4---sn-aigzrn7s.googlevideo.com^$important
 #||r6---sn-aigzrner.googlevideo.com^$important
 #||r2---sn-aigzrn7k.googlevideo.com^$important
