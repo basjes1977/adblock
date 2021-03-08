@@ -8,7 +8,6 @@
 /(([a-zA-Z0-9]{2,2})+[---]+([a-zA-Z0-9]{2,2})+[-]+([a-zA-Z0-9]{8,8})).googlevideo.com/
 /(([a-zA-Z0-9]{2,2})+[.]+([a-zA-Z0-9]{2,2})+[-]+([a-zA-Z0-9]{8,8})).googlevideo.com/
 /[a-z0-9]{2,2}.+[2mdn].net/
-#||s0.2mdn.net^$important
 /[a-zA-Z0-9]{3,3}.googleusercontent.com/
 ||zdbb.net^$important
 ||themes.googleusercontent.com^$important
