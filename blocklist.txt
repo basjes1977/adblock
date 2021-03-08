@@ -42,3 +42,4 @@
 @@||minexmr.com^$important
 @@||collector.githubapp.com^$important
 @@||data.buienradar.nl^$important
+@@||buienradar.nl^$important
