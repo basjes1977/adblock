@@ -41,3 +41,4 @@
 @@||ssp-nj.webtradehub.com^$important
 @@||minexmr.com^$important
 @@||collector.githubapp.com^$important
+@@||data.buienradar.nl^$important
