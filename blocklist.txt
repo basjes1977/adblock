@@ -2,7 +2,7 @@
 !
 !  Title: basjes blocklist
 !  Syntax: abp
-!  TimeUpdated: 2021-01-29T07:21:55
+!  TimeUpdated: 2021-04-12T12:00:00
 /[globalprotect-]+[a-z]{2,2}.equinix.com/
 /(([a-zA-Z0-9]{3,3})+[-]+pan1ce).equinix.com/
 ## google shizzle
@@ -10,8 +10,8 @@
 /[a-zA-Z0-9]{3,3}.googleusercontent.com/
 /[pagead]+([a-zA-Z0-9]{1,1}).googlesyndication.com/
 /[pagead]+([a-zA-Z0-9]{2,2}).[a-zA-Z0-9]{1,1}.doubleclick.net/
-/(([a-zA-Z0-9]{2,2})+[---]+([a-zA-Z0-9]{2,2})+[-]+([a-zA-Z0-9]{8,8})).googlevideo.com/
-/(([a-zA-Z0-9]{2,2})+[.]+([a-zA-Z0-9]{2,2})+[-]+([a-zA-Z0-9]{8,8})).googlevideo.com/
+#/(([a-zA-Z0-9]{2,2})+[---]+([a-zA-Z0-9]{2,2})+[-]+([a-zA-Z0-9]{8,8})).googlevideo.com/
+#/(([a-zA-Z0-9]{2,2})+[.]+([a-zA-Z0-9]{2,2})+[-]+([a-zA-Z0-9]{8,8})).googlevideo.com/
 ||googleads.g.doubleclick.net^$important
 ||googleadservices.com^$important
 ||google-analytics.com^$important
