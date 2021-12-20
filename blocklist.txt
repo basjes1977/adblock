@@ -37,7 +37,7 @@
 ||rmedessents.club^$important
 ||speedtest.mkbwebhoster.com.prod.hosts.ooklaserver.net^$important
 ||bubblewitch3mobile.king.com^$important
-/[a-z0-9]{2,2}.lgeapi.com/
+#/[a-z0-9]{2,2}.lgeapi.com/
 ## Allowed
 @@||xmr.pool.minergate.com^$important
 @@||ssp-nj.webtradehub.com^$important
