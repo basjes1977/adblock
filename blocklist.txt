@@ -21,6 +21,7 @@
 /[a-z0-9]{2,2}.2mdn.net/
 ## Other
 /.*\.4tube\.com\/nyordo\/.*/
+[a-zA-Z0-0]{5,5}.[a-zA-Z0-0]{5,5}.[a-zA-Z0-0]{5,5}.akamaiedge.net
 ||zdbb.net^$important
 ||themes.googleusercontent.com^$important
 ||robincontentdesktop.blob.core.windows.net^$important
